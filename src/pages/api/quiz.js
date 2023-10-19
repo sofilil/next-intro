@@ -1,3 +1,5 @@
+//Skrevet en liten forklaring i README også :)
+
 const quiz = [
     {
       "title": "Hvilket rammeverk for testing av javascript skal vi bruke i kurset?",
