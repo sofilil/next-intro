@@ -105,3 +105,16 @@ a {
     color-scheme: dark;
   }
 }
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: pink;
+}
+
+li{
+  list-style: none;
+}
